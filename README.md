@@ -16,8 +16,9 @@
 ### 1.Clone this repository:
 
 #### Bash
-- > git clone https://github.com/ShouyiLeee/Football-Measuring-Possession
-
+```
+git clone https://github.com/ShouyiLeee/Football-Measuring-Possession
+```
 
 ### 2.Create a virtual environment (recommended for managing dependencies):
 
