@@ -62,3 +62,7 @@ python -m venv env source env/bin/activate  # Windows: env\Scripts\activate
  python train.py --data data.yaml --img-size 640  # Adjust img-size as needed
 
 ```
+
+### Demo
+<a href="https://youtu.be/qlpIrutztFQ" target="_blank">
+</a>
